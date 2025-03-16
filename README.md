@@ -8,10 +8,10 @@ JavaScript adalah bahasa pemrograman yang paling umum digunakan di pengembangan 
 TypeScript adalah superset dari JavaScript yang menambahkan fitur statis typing. Dengan TypeScript, pengembang dapat mendefinisikan tipe data untuk variabel, parameter fungsi, dan nilai pengembalian fungsi, yang membantu mengurangi kesalahan dan meningkatkan pemeliharaan kode. Karena TypeScript adalah superset dari JavaScript, kode JavaScript yang valid dapat dijalankan di TypeScript tanpa masalah. Artinya, TypeScript dapat digunakan untuk mengembangkan aplikasi besar dan juga mendukung JavaScript.
 
 
-```markdown
-## Penjelasan Tugas
+
 
 ### 1. **Mengonversi Fahrenheit ke Celsius**
+```markdown
 Program ini akan menerima suhu dalam Fahrenheit dan menggunakan rumus untuk mengonversinya ke Celsius:
 ```javascript
 Celsius = (Fahrenheit - 32) * (5 / 9)
@@ -108,7 +108,7 @@ Untuk `str = "madam"`, fungsi ini akan mengembalikan `true` karena "madam" sama 
 
 ---
 
-### Ringkasan Perintah
+### Ringkasan
 
 Pada pembahasan kali ini, ilmu baru yang saya pelajari adalah : 
 
@@ -117,10 +117,4 @@ Pada pembahasan kali ini, ilmu baru yang saya pelajari adalah :
 - Mengimplementasikan logika kondisional dan perulangan.
 - Memahami konsep pemrograman umum seperti pemeriksaan angka genap/ganjil dan pembalikan string.
 - Memeriksa Apakah Sebuah String Palindrom atau Tidak
-  
 
-### Instruksi Penggunaan:
-- Salin penjelasan di atas ke dalam bagian yang sesuai dalam file **README.md** proyekmu.
-- Penjelasan ini memberikan konteks untuk setiap tugas di repositorimu dan akan memandu siapa pun yang meninjau pekerjaanmu untuk memahami bagaimana setiap tugas diselesaikan dan apa yang diharapkan sebagai output.
-
-Semoga penjelasan ini membantu! Jika ada yang perlu diubah atau ditambah, beri tahu saya!
