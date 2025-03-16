@@ -21,13 +21,13 @@ Step by step guiding to push the repository to Github
    ```bash
    git commit -m "Initial commit: Add index.js"
 
-##2. Make changes and push to Github
+## 2. Make changes and push to Github
 1. **Connect to GitHub**
    Do no initialize it with readme, beacuse you already have one
 2. **add GitHub remote to your local repository**
   ```bash
 git remote add origin git remote add origin https://github.com/Sisilfr/WCD02.T2.git
-3.  **push to github**
+3. **push to github**
   ```bash
   git push -u origin main
 4. **Use origin master**
@@ -36,7 +36,7 @@ git remote add origin git remote add origin https://github.com/Sisilfr/WCD02.T2.
 4. Create a New Branch and Make Changes
 
 
-##3. Create a new branch:
+## **3. Create a new branch:**
 
 1. **Create a new branch for feature development or changes:**
   ```bash
